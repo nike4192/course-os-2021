@@ -17,7 +17,8 @@ def calculate_sequences(person_list):
         sequence = []
         for piece in pieces:
             for char in piece:
-                if number := (alphabet.index(char.lower()) + 1) % n:
+                number = (alphabet.index(char.lower()) + 1) % n
+                if number:
                     sequence.append(number)
                     
         sequences.append(sequence)
