@@ -1,0 +1,751 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"wid",
+				"widthOffset"
+			],
+			[
+				"buffe",
+				"buffer_size"
+			],
+			[
+				"normals_bu",
+				"normals_buffer_size"
+			],
+			[
+				"norma",
+				"normal_size"
+			],
+			[
+				"ind",
+				"index"
+			],
+			[
+				"Pol",
+				"PolyhedronGeometry"
+			],
+			[
+				"radi",
+				"radiusBottom"
+			],
+			[
+				"rad",
+				"radiusBottom"
+			],
+			[
+				"radiu",
+				"radiusTop"
+			],
+			[
+				"phi",
+				"phiLength"
+			],
+			[
+				"tub",
+				"tubularSegments"
+			],
+			[
+				"View",
+				"ViewRotateZ"
+			],
+			[
+				"mak",
+				"make_cone_vertices"
+			],
+			[
+				"make_c",
+				"make_cyllinder_vertices"
+			],
+			[
+				"SCR",
+				"SCR_WIDTH"
+			],
+			[
+				"scro",
+				"scroll_callback"
+			],
+			[
+				"recu",
+				"recursiveParseFigures"
+			],
+			[
+				"vSh",
+				"vShaderStream"
+			],
+			[
+				"fra",
+				"fragmentPath"
+			],
+			[
+				"verte",
+				"vertexPath"
+			],
+			[
+				"stat",
+				"status1"
+			],
+			[
+				"messa",
+				"message2"
+			],
+			[
+				"print",
+				"print_message_function"
+			],
+			[
+				"dra",
+				"draw_graph"
+			],
+			[
+				"lin",
+				"linear_to"
+			],
+			[
+				"cali",
+				"calibrate_camera"
+			],
+			[
+				"ba",
+				"barcode"
+			],
+			[
+				"cha",
+				"changeCallback"
+			],
+			[
+				"fil",
+				"filterId"
+			],
+			[
+				"filt",
+				"filterId"
+			],
+			[
+				"file",
+				"filename"
+			],
+			[
+				"proto",
+				"prototype"
+			],
+			[
+				"norm",
+				"normVec"
+			],
+			[
+				"bu",
+				"bufferGeometry"
+			],
+			[
+				"FI",
+				"FigureGroup"
+			],
+			[
+				"pos",
+				"viewPosition"
+			],
+			[
+				"Ma",
+				"Matrix3"
+			],
+			[
+				"Matri",
+				"Matrix3"
+			],
+			[
+				"poi",
+				"pointVec"
+			],
+			[
+				"Fig",
+				"FigureView"
+			],
+			[
+				"json",
+				"json_decode"
+			],
+			[
+				"sen",
+				"send_data_pattern"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"cmake",
+				"CMakeBuilder: New Project"
+			],
+			[
+				"prac3",
+				"Build With: Prac3 (Linux)"
+			],
+			[
+				"Prac",
+				"Build With: Prac3 (Linux)"
+			],
+			[
+				"Prac3",
+				"Build With: Prac3 (Linux)"
+			],
+			[
+				"buil",
+				"Build With: Prac3 (Linux)"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"gls",
+				"Set Syntax: GLSL"
+			],
+			[
+				"panel",
+				"Terminus: Toggle Panel"
+			],
+			[
+				"termins",
+				"Terminus: Open Default Shell in Panel"
+			],
+			[
+				"te",
+				"Terminus: Open Default Shell in Tab (View)"
+			],
+			[
+				"mini",
+				"Terminus: Minimize to Panel"
+			],
+			[
+				"terminus th",
+				"Terminus Utilities: Select Theme"
+			],
+			[
+				"terminus ma",
+				"Terminus: Maximize to Tab"
+			],
+			[
+				"terminus",
+				"Terminus: Open Default Shell in Tab (View)"
+			],
+			[
+				"ba",
+				"Set Syntax: Bash"
+			],
+			[
+				"terminus v",
+				"Terminus: Open Default Shell in Tab (View)"
+			],
+			[
+				"",
+				"Build With: Docker Compose"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"sql",
+				"Set Syntax: SQL"
+			],
+			[
+				"pug",
+				"Set Syntax: Pug"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"bash",
+				"Set Syntax: Bash"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"django",
+				"Snippet: Django template variable"
+			],
+			[
+				"tt",
+				"Set Syntax: TT2"
+			],
+			[
+				"perl",
+				"Set Syntax: Perl"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"theme",
+				"UI: Select Color Scheme"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 275.0,
+		"history":
+		[
+			"bash",
+			"2",
+			"'\\n'.join(map(str,range(26)))",
+			"'\\n'.join(range(26))",
+			"import this",
+			"2+2",
+			"help()",
+			"import numpy as mp",
+			"python3"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/nike4192/Рабочий стол/practice-6/src/shaders/main.vs",
+		"/home/nike4192/Рабочий стол/practice-6/src/main.cpp",
+		"/home/nike4192/c++/opengl/src/geometries/SphereGeometry.cpp",
+		"/home/nike4192/c++/opengl/src/geometries/ConicalSpiralGeometry.cpp",
+		"/home/nike4192/c++/opengl/src/geometries/TorusKnotGeometry.cpp",
+		"/home/nike4192/c++/opengl/src/geometries/TorusKnotGeometry.h",
+		"/home/nike4192/c++/opengl/src/geometries/TorusGeometry.cpp",
+		"/home/nike4192/c++/opengl/src/geometries/TorusGeometry.h",
+		"/home/nike4192/c++/opengl/src/geometries/TetrahedronGeometry.h",
+		"/home/nike4192/c++/opengl/src/geometries/PolyhedronGeometry.h",
+		"/home/nike4192/c++/opengl/src/geometries/OctahedronGeometry.h",
+		"/home/nike4192/c++/opengl/src/geometries/IcosahedronGeometry.h",
+		"/home/nike4192/c++/opengl/src/geometries/DodecahedronGeometry.h",
+		"/home/nike4192/c++/opengl/src/geometries/CylinderGeometry.h",
+		"/home/nike4192/c++/opengl/src/geometries/ConicalSpiralGeometry.h",
+		"/home/nike4192/c++/opengl/src/geometries/ConeGeometry.h",
+		"/home/nike4192/c++/opengl/src/geometries/BufferGeometry.cpp",
+		"/home/nike4192/c++/opengl/src/geometries/BufferGeometry.h",
+		"/home/nike4192/c++/opengl/src/geometries/PolyhedronGeometry.cpp",
+		"/var/www/dev/three.js/build/three.js",
+		"/home/nike4192/c++/opengl/src/geometries/CylinderGeometry.cpp",
+		"/home/nike4192/c++/opengl/CMakeLists.txt",
+		"/home/nike4192/c++/opengl/src/geometries/TetrahedronGeometry.cpp",
+		"/home/nike4192/c++/opengl/src/geometries/DodecahedronGeometry.cpp",
+		"/home/nike4192/c++/opengl/src/geometries/IcosahedronGeometry.cpp",
+		"/home/nike4192/c++/opengl/src/geometries/ConeGeometry.cpp",
+		"/home/nike4192/c++/opengl/src/geometries/OctahedronGeometry.cpp",
+		"/home/nike4192/c++/opengl/src/geometries/Octahedron.h",
+		"/home/nike4192/c++/opengl/src/geometries/SphereGeometry.h",
+		"/home/nike4192/c++/opengl/src/main.cpp",
+		"/home/nike4192/c++/opengl/src/shaders/main.fs",
+		"/home/nike4192/c++/opengl/src/shaders/main.vs",
+		"/home/nike4192/c++/opengl/src/TorusKnotGeometry.h",
+		"/home/nike4192/c++/opengl/src/TorusKnotGeometry.cpp",
+		"/home/nike4192/c++/opengl/src/BufferGeometry.h",
+		"/home/nike4192/c++/opengl/src/SphereGeometry.h",
+		"/home/nike4192/c++/opengl/src/SphereGeometry.cpp",
+		"/home/nike4192/c++/opengl/src/Object3D.h",
+		"/home/nike4192/c++/opengl/src/Object3D.cpp",
+		"/home/nike4192/c++/opengl/src/PerspectiveCamera.cpp",
+		"/home/nike4192/c++/opengl/src/PerspectiveCamera.h",
+		"/home/nike4192/.config/sublime-text-3/Packages/User/Cmake.sublime-build",
+		"/home/nike4192/c++/opengl/src/BufferGeometry.cpp",
+		"/home/nike4192/c++/opengl/Prac3.sublime-project",
+		"/home/nike4192/c++/opengl/src/shaders/PerspectiveCamera.h",
+		"/home/nike4192/c++/os-lab/lab-1/main.cpp",
+		"/media/nike4192/D2FE6226FE620359/МегаДиск/Документы/Образование/3 курс/5 семестр/Проектный практикум/targets.md",
+		"/media/nike4192/D2FE6226FE620359/МегаДиск/Документы/Образование/3 курс/5 семестр/ОС. Операционные системы/Практики/Лабораторная 1/CMakeLists.txt",
+		"/home/nike4192/Рабочий стол/main.cpp",
+		"/media/nike4192/D2FE6226FE620359/МегаДиск/Документы/Образование/3 курс/5 семестр/ОС. Операционные системы/Практики/Лабораторная 1/Makefile",
+		"/var/www/dev/blueprints/jsm/bp.js",
+		"/home/nike4192/.config/sublime-text-3/Packages/Docker Based Build Systems/README.md",
+		"/media/nike4192/D2FE6226FE620359/www/pasha/house-designer/index.php",
+		"/home/nike4192/Рабочий стол/ОС/АТ-11.txt",
+		"/var/www/gnmd/common/models/sequelize.js",
+		"/var/www/gnmd/users/models/user.model.js",
+		"/var/www/gnmd/models/user.js",
+		"/var/www/gnmd/migrations/20210913154758-create-user.js",
+		"/var/www/gnmd/package.json",
+		"/var/www/gnmd/config/config.json",
+		"/var/www/gnmd/migrations/20210913154459-create-user.js",
+		"/var/www/gnmd/models/index.js",
+		"/var/www/gnmd/definitions/router.js",
+		"/home/nike4192/Загрузки/github-recovery-codes.txt",
+		"/var/www/gnmd/.gitignore",
+		"/var/www/gnmd/yarn.lock",
+		"/var/www/gnmd/articles/models/article.model.js",
+		"/var/www/gnmd/sql/procedures/info.txt",
+		"/var/www/gnmd/sql/procedures/geom_section_articles.sql",
+		"/var/www/gnmd/sql/procedures/geom_page_articles.sql",
+		"/var/www/gnmd/sql/procedures/geom_articles_by_url_titile.sql",
+		"/var/www/gnmd/common/middlewares/renderer-binding.js",
+		"/var/www/gnmd/app.js",
+		"/var/www/gnmd/views/definitions/article.pug",
+		"/home/nike4192/Загрузки/geom_articles.sql",
+		"/var/www/gnmd/sql/update/geom_articles_update.sql",
+		"/var/www/gnmd/.env",
+		"/var/www/gnmd/common/scripts/renderer.js",
+		"/var/www/gnmd/users/controllers/users.controller.js",
+		"/var/www/gnmd/mathjax/models/svg.model.js",
+		"/var/www/gnmd/mathjax/controllers/svg.controller.js",
+		"/var/www/gnmd/common/middlewares/auth.validation.middleware.js",
+		"/var/www/gnmd/authorization/router.js",
+		"/var/www/gnmd/static/js/profile.js",
+		"/home/nike4192/yarn.lock",
+		"/var/www/gnmd/manage/router.js",
+		"/var/www/gnmd/common/search.router.js",
+		"/var/www/gnmd/common/profile.router.js",
+		"/var/www/gnmd/.gitattributes",
+		"/var/www/gnmd/sql/all.sql",
+		"/var/www/gnmd/sql/procedures/all.sql",
+		"/var/www/gnmd/sql/insert/geom_users_insert.sql",
+		"/var/www/gnmd/package",
+		"/var/www/app/.dockerignore",
+		"/var/lib/docker/volumes/todo-db/_data/todo.db",
+		"/home/nike4192/python/django/firstapp/firstapp/settings.py",
+		"/home/nike4192/python/django/firstapp/polls/views.py",
+		"/home/nike4192/python/django/firstapp/polls/jinja2/polls/layout",
+		"/home/nike4192/python/django/firstapp/polls/templates/polls/index.html",
+		"/home/nike4192/python/django/firstapp/polls/urls.py",
+		"/home/nike4192/python/django/firstapp/polls/models.py",
+		"/home/nike4192/python/django/firstapp/polls/admin.py",
+		"/home/nike4192/python/django/firstapp/polls/jinja2/polls/index",
+		"/home/nike4192/python/django/firstapp/pools/views.py",
+		"/home/nike4192/perl/Tsystem/root/src/attenuation_elements.tt2",
+		"/home/nike4192/perl/Tsystem/root/src/bands.tt2",
+		"/home/nike4192/perl/Tsystem/root/src/quanta5BandsMCS_radio.tt2",
+		"/home/nike4192/perl/Tsystem/root/src/error.tt2",
+		"/home/nike4192/perl/Tsystem/root/src/notfound.tt2",
+		"/home/nike4192/python/django/firstapp/firstapp/urls.py",
+		"/home/nike4192/python/django/firstapp/pools/models.py",
+		"/home/nike4192/python/django/firstapp/pools/apps.py",
+		"/home/nike4192/python/django/firstapp/pools/migrations/0001_initial.py",
+		"/home/nike4192/python/django/firstapp/pool/views.py",
+		"/home/nike4192/python/django/firstapp/pool/urls.py",
+		"/home/nike4192/python/django/firstapp/firstapp/wsgi.py",
+		"/home/nike4192/python/django/firstapp/firstapp/asgi.py",
+		"/home/nike4192/python/django/firstapp/firstapp/__init__.py",
+		"/home/nike4192/python/django/firstapp/manage.py",
+		"/home/nike4192/perl/Programming Perl, 4th Edition (Example code)/programming_perl_examples/program_listings/ch07/ch07.002.pl",
+		"/home/nike4192/perl/6.pl",
+		"/home/nike4192/perl/7.pl",
+		"/tmp/.fr-a0kCZJ/Tsystem/root/src/welcome.tt2",
+		"/home/nike4192/Загрузки/VBox Code by Techrechard.com.txt",
+		"/home/nike4192/perl/Programming Perl, 4th Edition (Example code)/programming_perl_examples/program_listings/ch06/ch06.028.pl",
+		"/home/nike4192/perl/Programming Perl, 4th Edition (Example code)/programming_perl_examples/program_listings/ch06/ch06.027.pl",
+		"/home/nike4192/perl/Programming Perl, 4th Edition (Example code)/programming_perl_examples/program_listings/ch06/ch06.045.pl",
+		"/home/nike4192/perl/unicode_collate_sort.pl"
+	],
+	"find":
+	{
+		"height": 22.0
+	},
+	"find_in_files":
+	{
+		"height": 98.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Prac3 (Linux)",
+	"project": "CMakeLists.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Cmak",
+				"CMakeLists.txt"
+			],
+			[
+				"Sphere",
+				"src/geometries/SphereGeometry.cpp"
+			],
+			[
+				"Buffer",
+				"src/geometries/BufferGeometry.cpp"
+			],
+			[
+				"torusk",
+				"src/geometries/TorusKnotGeometry.cpp"
+			],
+			[
+				"Torus",
+				"src/geometries/TorusGeometry.cpp"
+			],
+			[
+				"Sphce",
+				"src/geometries/SphereGeometry.cpp"
+			],
+			[
+				"Sphe",
+				"src/geometries/SphereGeometry.cpp"
+			],
+			[
+				"Cyli",
+				"src/geometries/CylinderGeometry.cpp"
+			],
+			[
+				"ConeG",
+				"src/geometries/ConeGeometry.h"
+			],
+			[
+				"Torusk",
+				"src/geometries/TorusKnotGeometry.cpp"
+			],
+			[
+				"Cylin",
+				"src/geometries/CylinderGeometry.cpp"
+			],
+			[
+				"cmk",
+				"CMakeLists.txt"
+			],
+			[
+				"main.fs",
+				"src/shaders/main.fs"
+			],
+			[
+				"main.vs",
+				"src/shaders/main.vs"
+			],
+			[
+				"TorusKno",
+				"src/geometries/TorusKnotGeometry.cpp"
+			],
+			[
+				"CMka",
+				"CMakeLists.txt"
+			],
+			[
+				"Cma",
+				"CMakeLists.txt"
+			],
+			[
+				"CMa",
+				"CMakeLists.txt"
+			],
+			[
+				"TOrusKn",
+				"src/geometries/TorusKnotGeometry.cpp"
+			],
+			[
+				"cmake",
+				"CMakeLists.txt"
+			],
+			[
+				"MakeLis",
+				"CMakeLists.txt"
+			],
+			[
+				"main",
+				"src/shaders/main.vs"
+			],
+			[
+				"seque",
+				"common/models/sequelize.js"
+			],
+			[
+				"user.mo",
+				"users/models/user.model.js"
+			],
+			[
+				".giti",
+				".gitignore"
+			],
+			[
+				"router",
+				"definitions/router.js"
+			],
+			[
+				"geom_section_articles",
+				"sql/procedures/geom_section_articles.sql"
+			],
+			[
+				"geom_page_articles",
+				"sql/procedures/geom_page_articles.sql"
+			],
+			[
+				"geom_articles_by_url_titile",
+				"sql/procedures/geom_articles_by_url_titile.sql"
+			],
+			[
+				"article.mo",
+				"articles/models/article.model.js"
+			],
+			[
+				"bindi",
+				"common/middlewares/renderer-binding.js"
+			],
+			[
+				".pug",
+				"views/definitions/article.pug"
+			],
+			[
+				"app",
+				"app.js"
+			],
+			[
+				"render",
+				"common/scripts/renderer.js"
+			],
+			[
+				"rendere",
+				"common/scripts/renderer.js"
+			],
+			[
+				"pack",
+				"package.json"
+			],
+			[
+				".html",
+				"src/static/index.html"
+			],
+			[
+				"app.",
+				"src/static/js/app.js"
+			],
+			[
+				"urls",
+				"polls/urls.py"
+			],
+			[
+				"view",
+				"polls/views.py"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 235.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"b"
+			]
+		],
+		"width": 592.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 307.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
