@@ -12,12 +12,6 @@ class Page:
         self.pg_num = pg_num
         self.counter = 0
 
-    def __hash__(self):
-        if self.mode == PageMode.LOCAL:
-            return hash((self.ps_num, self.pg_num))
-        else:
-            return hash((self.pg_num))
-
     def __eq__(self, other):
         if isinstance(other, tuple):        
             if self.mode == PageMode.LOCAL:
