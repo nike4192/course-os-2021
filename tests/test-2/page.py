@@ -1,11 +1,14 @@
 from enum import Enum
 
+
 class PageMode(Enum):
     GLOBAL = 'global'
     LOCAL = 'local'
 
+
 class Page:
-    mode = PageMode.GLOBAL
+
+    mode = PageMode.GLOBAL  # static field
 
     def __init__(self, ps_num, pg_num):
         self.ps_num = ps_num
@@ -14,14 +17,10 @@ class Page:
 
     def __eq__(self, other):
         if isinstance(other, tuple):        
-            if self.mode == PageMode.LOCAL:
-                return self.ps_num == other[0] and self.pg_num == other[1]
-            else:
-                return self.pg_num == other[1]
-        if self.mode == PageMode.LOCAL:
+            return self.ps_num == other[0] and self.pg_num == other[1]
+        if isinstance(other, Page):
             return self.ps_num == other.ps_num and self.pg_num == other.pg_num
-        else:
-            return self.pg_num == other.pg_num
+        return False
 
     def __str__(self):
         return f'{self.ps_num}-{self.pg_num}'

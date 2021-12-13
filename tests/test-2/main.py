@@ -11,12 +11,17 @@ student_list = [
 #   'Зернюков Никита Андреевич'
 ]
 
-Page.mode = PageMode.LOCAL
 
-max_size = 6
+Page.mode = PageMode.GLOBAL
+alg_name = 'nfu'
+strict = False
+
+max_size = 10
 requests = make_requests(student_list)
 
-logger = algorithm.opt(requests, max_size)
+logger = getattr(algorithm, alg_name)(requests, max_size, strict=True)
+
+print(Page.mode.value.title(), alg_name, ('nostrict', 'strict')[strict])
 logger.print()
 
 print(logger.faults)

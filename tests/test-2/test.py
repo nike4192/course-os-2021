@@ -1,4 +1,5 @@
-from utils import make_requests, calculate_sequences, merge_sequences, compare_lists
+from utils import make_requests, gen_sequences, gen_requests, compare_lists
+
 
 test_person_list = [
     'Васильев Аркадий Владимирович',
@@ -16,11 +17,11 @@ test_sequence = [
     (1, 3), (2, 2), (3, 2), (1, 1), (2, 3), (3, 4), (1, 5), (2, 1), (3, 4), (1, 3), (2, 3), (3, 3), (1, 6), (2, 3), (3, 4), (1, 2), (2, 1), (3, 3), (1, 6), (2, 2), (3, 1), (1, 3), (2, 2), (3, 3), (1, 1), (2, 3), (3, 5), (1, 4), (2, 2), (3, 5), (1, 5), (2, 2), (3, 3), (1, 1), (2, 2), (3, 3), (1, 5), (2, 2), (3, 1), (1, 3), (2, 3), (3, 1), (1, 4), (2, 2), (3, 1), (1, 3), (2, 1), (3, 1), (1, 6), (3, 3), (1, 1), (3, 4), (1, 5), (3, 3), (1, 3), (3, 4), (1, 3), (3, 1), (1, 4), (1, 2), (1, 3), (1, 3), (1, 4)
 ] #                                                                                                                                                                                                                                                                                                                                                                                                                             ^ In pdf 2 is wrong
 
-check_sequences = calculate_sequences(test_person_list)  # person_list -> sequences
+check_sequences = list(gen_sequences(test_person_list))  # person_list -> sequences
 result_1 = all([compare_lists(l1, l2) for l1, l2 in zip(test_sequences, check_sequences)])
 print('Test calculate sequences:', 'OK' if result_1 else 'ERROR')
 
-check_sequence = list(merge_sequences(test_sequences))  # sequences -> sequence
+check_sequence = list(gen_requests(test_sequences))  # sequences -> sequence
 result_2 = compare_lists(test_sequence, check_sequence)
 print('Test merge sequences:', 'OK' if result_2 else 'ERROR')
 
